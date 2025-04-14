@@ -163,6 +163,7 @@ p{
 .cardprojet>a{
     display: flex;
     justify-content: center;
+    align-items: center;
     background-color: gray;
     width: 70px;
     height: 70px;
